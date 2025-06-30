@@ -71,7 +71,7 @@ Exploring tools         | Wordpress, WIX ai, Dora run , Spline 3D |
 
 | Homepage                         | Galaxy Section                    |
 |----------------------------------|------------------------------------|
-| ![Homepage](assets/homepage.png) | ![Galaxy](assets/galaxy.png)       |
+| ![Homepage](assets/Screenshot 2025-06-30 142945.png)      |
 
 ---
 
