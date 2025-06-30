@@ -69,9 +69,9 @@ Exploring tools         | Wordpress, WIX ai, Dora run , Spline 3D |
 
 > Replace images with your actual site screenshots (add to `/assets` folder)
 
-| Homepage                         | Galaxy Section                    |
-|----------------------------------|------------------------------------|
-| ![Homepage](assets/Screenshot 2025-06-30 142945.png)      |
+| Homepage                         | 
+|----------------------------------|
+assets/Screenshot 2025-06-30 142945.png 
 
 ---
 
