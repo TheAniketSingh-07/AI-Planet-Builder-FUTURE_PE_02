@@ -1,6 +1,8 @@
-# AI-Planet-Builder-FUTURE_PE_02
-
 # 🌌 AI Planet Builder — No-Code AI Website Project
+
+<p align="center">
+  <img src="assets/Screenshot 2025-06-30 142945.png" width="100%"/> 
+</p>
 
 An interactive, AI-powered website built entirely using no-code tools like **Lovable AI**, designed for seamless user experience and futuristic 3D visual design. This project demonstrates the capability of building and launching a complete SaaS-like site using **zero traditional coding**, AI integrations, and automation platforms.
 
